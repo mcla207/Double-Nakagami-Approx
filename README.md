@@ -4,7 +4,7 @@
 
 Code accompanying the article:
 
-> [Maria Luna Alvarado, Lenin Patricio Jimenez Jimenez, Gustavo Fraidenraich, Michel Daoud Yacoub], "[Highly Accurate Approximations for the Sum of Double-Nakagami-m Envelopes]," *Proc. XLI Brazilian Symp. Telecommun. Signal Process*, pp. 1-5, 2023.
+> Maria Luna Alvarado, Lenin Patricio Jimenez Jimenez, Gustavo Fraidenraich, Michel Daoud Yacoub, "Highly Accurate Approximations for the Sum of Double-Nakagami-m Envelopes," *Proc. XLI Brazilian Symp. Telecommun. Signal Process*, pp. 1-5, 2023.
 > DOI: [10.14209/sbrt.2023.1570923751](https://doi.org/10.14209/sbrt.2023.1570923751)
 
 ## Contents
