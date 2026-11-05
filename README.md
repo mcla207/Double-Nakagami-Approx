@@ -34,7 +34,7 @@ plotted without rerunning the simulation.
 1. To plot the figures, open the corresponding notebook and evaluate all cells
    by clicking on the button Run all.
 2. To regenerate the simulation points, evaluate `MonteCarlo-OP-ASER.nb` and
-   replace the simulation values in `outage_probability.nb` and `aser.nb` with
+   replace the simulation values in `OP-plot.nb` and `ASER-plot.nb` with
    the new output.
 
 ## Citation
